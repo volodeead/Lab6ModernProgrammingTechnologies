@@ -1,0 +1,10 @@
+D:\University2024\ModernProgrammingTechnologies\lab6\Lab6Client\bin\Debug\Lab6Client.exe.config
+D:\University2024\ModernProgrammingTechnologies\lab6\Lab6Client\bin\Debug\Lab6Client.exe
+D:\University2024\ModernProgrammingTechnologies\lab6\Lab6Client\bin\Debug\Lab6Client.pdb
+D:\University2024\ModernProgrammingTechnologies\lab6\Lab6Client\bin\Debug\Lab6Interfaces.dll
+D:\University2024\ModernProgrammingTechnologies\lab6\Lab6Client\bin\Debug\Lab6Interfaces.pdb
+D:\University2024\ModernProgrammingTechnologies\lab6\Lab6Client\obj\Debug\Lab6Client.csproj.AssemblyReference.cache
+D:\University2024\ModernProgrammingTechnologies\lab6\Lab6Client\obj\Debug\Lab6Client.csproj.CoreCompileInputs.cache
+D:\University2024\ModernProgrammingTechnologies\lab6\Lab6Client\obj\Debug\Lab6Client.csproj.Up2Date
+D:\University2024\ModernProgrammingTechnologies\lab6\Lab6Client\obj\Debug\Lab6Client.exe
+D:\University2024\ModernProgrammingTechnologies\lab6\Lab6Client\obj\Debug\Lab6Client.pdb

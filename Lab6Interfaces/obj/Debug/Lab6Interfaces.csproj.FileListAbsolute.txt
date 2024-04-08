@@ -1,0 +1,6 @@
+D:\University2024\ModernProgrammingTechnologies\lab6\Lab6Interfaces\bin\Debug\Lab6Interfaces.dll
+D:\University2024\ModernProgrammingTechnologies\lab6\Lab6Interfaces\bin\Debug\Lab6Interfaces.pdb
+D:\University2024\ModernProgrammingTechnologies\lab6\Lab6Interfaces\obj\Debug\Lab6Interfaces.csproj.AssemblyReference.cache
+D:\University2024\ModernProgrammingTechnologies\lab6\Lab6Interfaces\obj\Debug\Lab6Interfaces.csproj.CoreCompileInputs.cache
+D:\University2024\ModernProgrammingTechnologies\lab6\Lab6Interfaces\obj\Debug\Lab6Interfaces.dll
+D:\University2024\ModernProgrammingTechnologies\lab6\Lab6Interfaces\obj\Debug\Lab6Interfaces.pdb
